@@ -69,5 +69,5 @@
 <h2 align="left">🔝   Top Contributed Repo ⬇️</h2>
 
 ###
-![](https://github-contributor-stats.vercel.app/api?username=HrishiD-codes&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
 
