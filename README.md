@@ -66,8 +66,12 @@
 
 ###
 
-<h2 align="left">🔝   Top Contributed Repo ⬇️</h2>
+<h2 align="left">🐍   Eating my Contributions ⬇️</h2>
 
 ###
 
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hrishiD-codes/hrishiD-codes/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hrishiD-codes/hrishiD-codes/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/hrishiD-codes/hrishiD-codes/output/github-snake.svg" />
+</picture>
