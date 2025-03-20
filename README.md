@@ -71,8 +71,3 @@
 ###
 ![](https://github-contributor-stats.vercel.app/api?username=HrishiD-codes&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
-###
-
-![snake gif](https://github.com/hrishiD-codes/hrishiD-codes/blob/output/github-contribution-grid-snake.gif)
-
-###
